@@ -17,6 +17,7 @@ Each example provides a one-click "Run on FloydHub" button. When you click this 
 * Attach any datasets specified in the project's floyd.yml config file to the Workspace
 
 | Example | Environment | Try it now |
+|:--- | :--- | :---: |
 | test | hi | cool |
 
 ## Contributing
