@@ -1,5 +1,7 @@
 [Website](https://www.floydhub.com) • [Docs](https://docs.floydhub.com) • [Forum](https://forum.floydhub.com) • [Twitter](https://twitter.com/floydhub_) • [We're Hiring](https://angel.co/floydhub)
 
+![FloydHub Logo](https://s3-us-west-2.amazonaws.com/floydhub-assets/logo/floydhub_logo_large_transparent.png)
+
 # FloydHub Examples
 
 A collection of ready-to-run machine learning and deep learning models using FloydHub.
