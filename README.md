@@ -12,11 +12,11 @@ If you are new to FloydHub, we recommend [creating a free account](https://www.f
 
 Each example provides a one-click "Run on FloydHub" button. When you click this button, you'll automatically open up the project in a [Workspace](https://docs.floydhub.com/guides/workspace/) on FloydHub. Behind the scenes, FloydHub will:
 
-* Prepare your Workspace's environment and machine, including installing any specified libraries or dependencies
+* Prepare your Workspace's [environment](https://docs.floydhub.com/guides/environments/) and [CPU or GPU machine](https://docs.floydhub.com/guides/basics/using_gpu/), including installing any [specified libraries or dependencies](https://docs.floydhub.com/guides/jobs/installing_dependencies/)
 * Download the project's code from GitHub to the cloud Workspace
-* Attach any datasets specified in the project's floyd.yml config file to the Workspace
+* Attach any datasets specified in the project's [floyd.yml config file](https://docs.floydhub.com/floyd_config/) to the Workspace
 
-| Example | FloydHub Environment | Try it now |
+| Example | [FloydHub Environment](https://docs.floydhub.com/guides/environments/) | Try it now |
 |:------ | :------ | :------: |
 | [**ColorNet**](https://github.com/floydhub/colornet-template) <br/> Colorize black & white photos  | TensorFlow-1.8 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/colornet-template) |
 | [**Pix2Code**](https://github.com/floydhub/pix2code-template) <br/> Train a neural network to code a basic HTML and CSS website based on a picture of a design mockup | TensorFlow-1.7 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/pix2code-template) |
