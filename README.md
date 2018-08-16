@@ -6,7 +6,7 @@ A collection of ready-to-run machine learning and deep learning models using Flo
 
 ## Getting Started
 
-If you are new to FloydHub, we recommend [creating a free account](https://www.floydhub.com) so that you'll be able run jobs and workspaces on our service.
+If you are new to FloydHub, we recommend [creating a free account](https://www.floydhub.com) so that you'll be able run jobs and workspaces on our service. Check out [FloydHub Templates](https://www.floydhub.com/explore/templates) for more information on these examples.
 
 ## Examples
 
