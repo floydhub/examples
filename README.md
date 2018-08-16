@@ -18,7 +18,7 @@ Each example provides a one-click "Run on FloydHub" button. When you click this 
 
 | Example | Environment | Try it now |
 |:--- | :--- | :---: |
-| test | hi | cool |
+| **ColorNet** <br/> Colorize black & white photos  | TensorFlow-1.8 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/colornet-template) |
 
 ## Contributing
 
