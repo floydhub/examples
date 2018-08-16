@@ -17,7 +17,7 @@ Each example provides a one-click "Run on FloydHub" button. When you click this 
 * Attach any datasets specified in the project's floyd.yml config file to the Workspace
 
 | Example | FloydHub Environment | Try it now |
-|:--------- | :------ | :---: |
+|:--------- | :------ | :------: |
 | **ColorNet** <br/> Colorize black & white photos  | TensorFlow-1.8 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/colornet-template) |
 | **Pix2Code** <br/> Train a neural network to code a basic HTML and CSS website based on a picture of a design mockup | TensorFlow-1.7 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/pix2code-template) |
 | **Image Classification** <br/> Classify dog breeds in an image | TensorFlow-1.7 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/image-classification-template) |
