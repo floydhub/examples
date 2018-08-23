@@ -1,6 +1,6 @@
-[Website](https://www.floydhub.com) • [Docs](https://docs.floydhub.com) • [Forum](https://forum.floydhub.com) • [Twitter](https://twitter.com/floydhub_) • [We're Hiring](https://angel.co/floydhub)
+![FloydHub Logo](https://github.com/floydhub/static/blob/master/Group.png)
 
-![FloydHub Logo](https://s3-us-west-2.amazonaws.com/floydhub-assets/logo/floydhub_logo_large_transparent.png)
+[Website](https://www.floydhub.com) • [Docs](https://docs.floydhub.com) • [Forum](https://forum.floydhub.com) • [Twitter](https://twitter.com/floydhub_) • [We're Hiring](https://angel.co/floydhub)
 
 # FloydHub Examples
 
