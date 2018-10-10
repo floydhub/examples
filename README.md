@@ -30,6 +30,12 @@ Each example provides a one-click "Run on FloydHub" button. When you click this 
 | [**Regression Using Wide & Deep Model**](https://github.com/floydhub/regression-template) <br/> Build a classifier to predict the price of a bottle of wine based on its description | TensorFlow-1.7 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/regression-template) |
 | [**Language Identification**](https://github.com/floydhub/language-identification-template) <br/> Detect the language used in a short piece of text (140 characters) | TensorFlow-1.7 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/floydhub/language-identification-template) |
 
+## Community Examples
+
+| Example | [FloydHub Environment](https://docs.floydhub.com/guides/environments/) | Try it now |
+|:------ | :------ | :------: |
+| [**English-to-French Translator**](https://github.com/SamLynnEvans/Transformer) <br/> Translate English to French sentences  | PyTorch 0.4 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/SamLynnEvans/Transformer) |
+
 ## Contributing
 
 We'd love to add more examples from the community! Please add examples via Pull requests!
