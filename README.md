@@ -36,6 +36,7 @@ Each example provides a one-click "Run on FloydHub" button. When you click this 
 |:------ | :------ | :------: |
 | [**English-to-French Translator**](https://github.com/SamLynnEvans/Transformer) <br/> Translate English to French sentences  | PyTorch 0.4 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/SamLynnEvans/Transformer) |
 | [**Reading Minds with CNNs**](https://github.com/SamLynnEvans/EEG-grasp-and-lift) <br/> Predict hand motions with images of brain EEG readings | PyTorch 1.0 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/SamLynnEvans/EEG-grasp-and-lift) |
+| [**Instagram Street Art Detection**](https://github.com/rememberlenny/streetart-notstreetart) <br/> Detect street art and graffiti in Instagram photos | tensorflow-1.12 | [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run?template=https://github.com/rememberlenny/streetart-notstreetart) |
 
 ## Contributing
 
